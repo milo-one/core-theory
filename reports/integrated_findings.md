@@ -111,16 +111,17 @@ Across PCA, cluster analyses, CDA, and SEM, five to six major semantic lines eme
 
 These lines appear consistent across different methods and suggest that they represent robust structural features of the corpus.
 
-## 6. Thesis Statement
+## 7. Key Finding Thesis
 
-> AI, author, institutional, and online texts differ along recurring register dimensions. These dimensions primarily concern authority, formality, self- and assistant-positioning, expressiveness, religious-doctrinal form, and somatic-affective intensity.
+> AI-generated, authored, institutional, and online texts differ along recurring register dimensions. These primarily concern authority, formality, self- and assistant-positioning, expressiveness, religious-doctrinal form, and somatic-affective intensity.
 
-AI texts do **not constitute a homogeneous class**. Generic AI responses, personalized versions, and CoT/Thinking texts move differently within this register space. CoT power and authority patterns, in particular, form a distinct, stably interpretable subspace.
+AI texts do **not constitute a homogeneous class**. Generic, personalized, and CoT-based outputs move differently within this register space. CoT power and authority patterns, in particular, form a distinct, interpretably stable subspace.
 
-## 7. Next Steps
+## 8. Next Steps
 
-The next meaningful level of analysis is a **Latent Dirichlet Allocation (LDA)**. This should not simply confirm the same structure, but rather examine which thematic topics lie within the previously identified register spaces. Of particular interest are:
+The analyses conducted so far (PCA, cluster analysis, CDA, SEM, and LDA) have yielded a relatively stable picture of the register structure. The following are suggested next steps:
 
-- Which topics dominate the major clusters 1, 4, and 7?
-- Do `ki_generic`, `ki_personalized`, and `ki_cot` also differ thematically?
-- Are there topics that further explain the SEM factors or CDA axes?
+- Further analysis of the cluster profiles using qualitative text examples
+- Further analysis of the forensic audit layer (mimicry detection)
+- Examination of the extent to which the identified registry dimensions are replicable in other corpora
+- Transition to a more confirmatory phase with clearly defined hypotheses
